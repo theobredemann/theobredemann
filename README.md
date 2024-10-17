@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, Eu sou Guilherme Théo Bredemann</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
+<h1 align="center">Hi there 👋, I'm Théo Bredemann</h1>
+<h3 align="center">Love for IoT, AI and digital world</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Machine Learning**
+- 🔭 I’m currently working on **AI, Machine Learning, Python and SQL**
 
-- 💬 Me pergunte sobre **PowerBI, Excel e Python**
+- 💬 Ask me about **IoT, Energy, AI, Python**
 
-- 📫 Você me acha através do e-mail **guilhermebredemann@gmail.com**
+- 📫 How to reach me: **guilhermebredemann@gmail.com**
 
-- 📄 Fui fundado por G. Théo Bredemann e aqui estão as habilidades que me criaram [www.linkedin.com/in/guilherme-theo](www.linkedin.com/in/guilherme-theo)
+- 📄 More details at: [www.linkedin.com/in/guilherme-theo](www.linkedin.com/in/guilherme-theo)
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
